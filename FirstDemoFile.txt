@@ -2,5 +2,5 @@ Hi this is Demo file . and its inside childFirstBranch
 I am added a new line here .
 Its first file 
 Hello world ......
-
+Edited inside Master now after creating second branch
 This is edited inside childFirstBranch ....
